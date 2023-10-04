@@ -1,0 +1,8 @@
+---
+ref: CPU_load
+name: CPU overload detection
+description: pack for CPU overload detection for FGH
+keywords: CPU load 
+python_version: "3.10"
+author: Aditya Iyer
+email: aditya.iyer@digitalxc.com
